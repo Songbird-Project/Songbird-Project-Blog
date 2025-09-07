@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "baseFontSize": 20,
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "cssTheme": "Catppuccin",
+  "showRibbon": true
+}
