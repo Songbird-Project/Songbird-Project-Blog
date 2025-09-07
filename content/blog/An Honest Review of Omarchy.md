@@ -2,7 +2,7 @@
 title= "An Honest Review of Omarchy"
 author= "vaelixd"
 date= "2025-09-07"
-tags= ["#blog"]
+tags= ["Testing Linux Distros"]
 draft= false
 +++
 
