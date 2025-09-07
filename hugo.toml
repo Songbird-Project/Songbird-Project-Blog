@@ -1,4 +1,4 @@
-baseURL = 'https://songbirdhq-blog.pages.dev/'
+baseURL = 'https://songbirdhq-blog.pages.dev/blog'
 languageCode = 'en-us'
 title = 'SongbirdHQ Blogs'
 theme = "hugo-bearcub"
