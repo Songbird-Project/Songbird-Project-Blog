@@ -9,21 +9,14 @@
     <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your Post Title</title>
-      <link>http://localhost:1313/blog/untitled/</link>
+      <title>An Honest Review of Omarchy</title>
+      <link>http://localhost:1313/blog/an-honest-review-of-omarchy/</link>
       <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/untitled/</guid>
-      <description>&lt;p&gt;dlkfldskjf&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>dlkfldskjf</p>
+      <guid>http://localhost:1313/blog/an-honest-review-of-omarchy/</guid>
+      <description>&lt;p&gt;I recently tried out Omarchy live on &lt;a href=&#34;&#34;&gt;stream&lt;/a&gt;. It was obvious from my reaction what I thought the setup and everything it contained.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;</description>
+      <content:encoded><![CDATA[<p>I recently tried out Omarchy live on <a href="">stream</a>. It was obvious from my reaction what I thought the setup and everything it contained.</p>
+<h2 id="the-problem">The Problem</h2>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/blog/templates/title/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/templates/title/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
   </channel>
 </rss>
