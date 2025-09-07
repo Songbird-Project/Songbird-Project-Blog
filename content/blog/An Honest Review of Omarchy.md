@@ -1,8 +1,8 @@
 +++
 title= "An Honest Review of Omarchy"
 author= "vaelixd"
-date= 2025-09-07
-tags= []
+date= "2025-09-07"
+tags= ["#blog"]
 draft= false
 +++
 
