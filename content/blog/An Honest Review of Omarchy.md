@@ -6,7 +6,7 @@ tags= ["Testing Linux Distros"]
 draft= false
 +++
 
-I recently tried out Omarchy live on [stream](https://www.twitch.tv/videos/2560283164). It was obvious from my reaction what I thought of the setup and everything it contained. And, my disappointment with its default state. 
+I recently tried out [*Omarchy*](https://omarchy.org/) live on [stream](https://www.twitch.tv/videos/2560283164). It was obvious from my reaction what I thought of the setup and everything it contained. And, my disappointment with its default state. 
 ## The Problem
 For me, there's one major problem with Omarchy and that's all of the bloat that it comes installed with. A lot of it comes from web apps that the install script populates your setup with. Some of those include **two** different AI clients, those being Grok and ChatGPT. Not only that but it also comes preloaded with the entire LibreOffice suite, OBS, Signal, Kdenlive, 1Password and Typora. The latter two being commercial and closed-source. I feel that it's a big problem since it adds unnecessary bloat to the system which ultimately limits what you can do with the resulting environment.
 
