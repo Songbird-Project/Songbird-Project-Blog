@@ -1,5 +1,14 @@
 baseURL = 'https://songbirdhq-blog.pages.dev'
-contentDir = 'content/blog'
 languageCode = 'en-us'
 title = 'SongbirdHQ Blogs'
 theme = "hugo-bearcub"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 20
