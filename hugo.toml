@@ -1,6 +1,6 @@
 baseURL = 'https://songbirdhq-blog.pages.dev'
 languageCode = 'en-us'
-title = 'SongbirdHQ Blogs'
+title = 'Songbird Project Blogs'
 theme = "hugo-bearcub"
 
 [menus]
