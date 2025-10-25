@@ -1,7 +1,7 @@
 +++
 title= "An Honest Review of Omarchy"
 author= "vaelixd"
-date= "7/9/25"
+date= "2025-09-07"
 tags= ["Testing Linux Distros", "Software"]
 draft= false
 +++
