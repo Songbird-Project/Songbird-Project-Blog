@@ -1,7 +1,7 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 author = 'vaelixd'
-date = '{{ date }}'
+date = '{{ .Date | time.Format ":date_short" }}'
 tags = []
 draft = true
 +++
