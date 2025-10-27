@@ -2,7 +2,7 @@
 title= "NixOS One Year Later"
 author= "vaelixd"
 date= "2025-10-26"
-tags= ["Testing Linux Distros", "Software", "Project Announcement"]
+tags= ["Testing Linux Distros", "Project Announcement",  "Software"]
 draft= false
 +++
 
