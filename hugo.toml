@@ -7,19 +7,20 @@ theme = "hugo-bearcub"
 [[menus.main]]
 name = 'Home'
 pageRef = '/'
-weight = 20
+weight = 10
 [[menus.main]]
 name = 'Blog'
 pageRef = '/blog'
 weight = 20
-
-[[menus.footer]]
+[[menus.main]]
 name = 'GitHub'
 url = 'https://github.com/songbird-project'
-[[menus.footer]]
+weight = 30
+[[menus.main]]
 name = 'Support Me'
 pre = '<i class="fa fa-heart"></i>'
 url = 'https://support-songbird.carrd.co/'
+weight = 40
 
 [menus.main.params]
 rel = 'external'
