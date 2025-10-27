@@ -1,5 +1,3 @@
-# The Songbird Project
-
 The Songbird Project is an immutable, declarative Linux distribution based on Arch Linux. It combines the extensive package availability of Arch and the AUR with a declarative, reproducible package management system inspired by NixOS.
 
 The project includes a custom-built suite of tools:
