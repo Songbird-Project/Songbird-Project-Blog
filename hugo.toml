@@ -4,11 +4,23 @@ title = 'Songbird Project Blog'
 theme = "hugo-bearcub"
 
 [menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Blog'
-    pageRef = '/blog'
-    weight = 20
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 20
+[[menus.main]]
+name = 'Blog'
+pageRef = '/blog'
+weight = 20
+
+[[menus.footer]]
+name = 'GitHub'
+url = 'https://github.com/songbird-project'
+[menus.main.params]
+rel = 'external'
+[[menus.footer]]
+name = 'Support Me'
+pre = '<i class="fa fa-heart"></i>'
+url = 'https://support-songbird.carrd.co/'
+[menus.main.params]
+rel = 'external'
