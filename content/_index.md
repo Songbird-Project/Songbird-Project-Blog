@@ -9,4 +9,4 @@ The project includes a custom-built suite of tools:
 - A desktop environment and window manager
 - A system installer
 
-SongbirdOS is currently in active development as both a learning project and an experiment in combining the best aspects of Arch and NixOS ecosystems.
+SongbirdOS is currently in active development as both a learning project and an experiment in combining the best aspects of the Arch and NixOS ecosystems.
